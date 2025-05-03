@@ -134,8 +134,3 @@ If another major global crisis occurs:
 - Python (Pandas, Matplotlib, Seaborn)
 - VADER Sentiment Analyzer
 - Jupyter Notebook
-
----
-
-## 📂 Folder Structure
-
